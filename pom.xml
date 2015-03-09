@@ -3,11 +3,11 @@
   <groupId>com.pakjivega.testing.archiva.app</groupId>
   <artifactId>testarchiva</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>testarchiva</name>
   <url>http://maven.apache.org</url>
   <scm>
-    <developerConnection>scm:svn:https://github.com/pakjivega/testarchiva</developerConnection>
+    <developerConnection>scm:svn:https://github.com/pakjivega/testarchiva/tags/testarchiva-1.0</developerConnection>
   </scm>
   <dependencies>
     <dependency>
